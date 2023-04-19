@@ -3780,6 +3780,11 @@ input[type="button"].btn-block {
     .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
       color: #fff; }
 
+.phone {
+  position: absolute;
+  right: 130px;
+}
+
 .card {
   position: relative;
   display: -webkit-box;
